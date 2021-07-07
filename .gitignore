@@ -1,0 +1,16 @@
+.idea
+nbproject
+
+node_modules
+vendor
+.env
+.project
+server/.buildpath
+server/.settings/org.eclipse.wst.validation.prefs
+org.eclipse.core.resources.prefs
+
+
+
+\.vscode/settings\.json
+
+\.vscode/
